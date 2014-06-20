@@ -1,0 +1,8 @@
+prefix=/opt/ros/hydro
+
+Name: audio_capture
+Description: Description of audio_capture
+Version: 0.2.6
+Cflags: 
+Libs: -L/opt/ros/hydro/lib 
+Requires: 

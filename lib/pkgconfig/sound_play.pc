@@ -1,0 +1,8 @@
+prefix=/opt/ros/hydro
+
+Name: sound_play
+Description: Description of sound_play
+Version: 0.2.6
+Cflags: -I/opt/ros/hydro/include
+Libs: -L/opt/ros/hydro/lib 
+Requires: message_runtime
